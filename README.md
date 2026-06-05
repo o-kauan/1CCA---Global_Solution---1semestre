@@ -84,7 +84,7 @@ Ao mesmo tempo em que os ciclos são processados, variáveis acumuladoras coleta
 
 2. Acesse o diretório do projeto via terminal:
 ```bash
-cd mission-control-ai
+cd 1CCA---Global_Solution---1semestre
 
 ```
 
